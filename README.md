@@ -20,11 +20,13 @@ An ordinary day: drinking some coffee, squashing some bugs, unearthing some awes
 
 ### 🛠️ Tools and tech
 
-`c#` · `ts` · `SQL` · `Python` · `Azure` · `Microsoft Fabric` · `pwsh` · `Kotlin` · `Handlebars`
+`c#` · `ts` · `SQL` · `Python` · `pwsh` · `Kotlin` · `Handlebars`
+
+`Azure` · `Microsoft Fabric` · `SQL Server` · `GitHub`
 
 ### 🌱 Right now
 
-Turning a few side projects into real products
+Working on a few projects:
 
 - [Agnostic Data Labs](https://agnosticdatalabs.com)
 - [Aardflex Android app](https://aardarch.com/aardflex/)
@@ -33,23 +35,9 @@ Turning a few side projects into real products
 
 ### 📫 Get in touch
 
-- LinkedIn: [Stefan Johansson](https://www.linkedin.com/in/johanssonstefan)
-- Or open an issue on one of my repos
+- [LinkedIn](https://www.linkedin.com/in/johanssonstefan)
+- [Old-school blog](https://stefanjohansson.org)
 
 ---
+
 <sub>Opinions and code are my own.</sub>
-
-<!--
-**sjohansson/sjohansson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
