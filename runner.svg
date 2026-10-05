@@ -1,0 +1,397 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 140" width="800" height="140" role="img" aria-labelledby="t" xmlns:c2pa="http://c2pa.org/manifest"><metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYTo5NzBhNWJjZi04YTBhLTRjMjQtODdkYy01MjhhMzFiY2JmNGUAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaNs9m9SfNif5Ut6kx51sbqoAAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDpmYWY4MGRlMy02NTAxLTRjZWUtOGQ1Mi03MDI2NjVmYjUxNmJscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNouscpNTu3FUmafZ8e3nrWewAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFgg7mkA5D2G5ejykvToA2Cw8y/VUOWRCE0ErBmtbZeI8hmkZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaKH1cdNopBu91RJKBYJaXz4AAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRNAAAAAAAAAAAAAAAAAGRoYXNoWCCAqC0Ye9SKFwVtYaQMCsqWfbTjN3HInI0W2RmP2cdVx2RuYW1lbmp1bWJmIG1hbmlmZXN0amV4Y2x1c2lvbnOBomVzdGFydBi1Zmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOjk3MGE1YmNmLThhMGEtNGMyNC04N2RjLTUyOGEzMWJjYmY0ZS9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOjI2MDEyMjU5LWIyMDEtNGU4YS1iY2YzLTVkMTE1YmJlN2FjYXJjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCDuaQDkPYbl6PKS9OgDYLDzL9VQ5ZEITQSsGa1tl4jyGaJjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFggAwCKh5yMWj8cmGZPFRT5cP2ko8Vnvg1sLWyOG4u6kzCiY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFggqKWRBQRM7L+anl7G46l6TmgjaeqNpuE8kSKcUbw0d1V0Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQCmkHum2CkI89BV9jRX8AsEuolz6VvphDT/BLyGaIz25W97pfcmdSiirPZ5oZ604JqbZdflC+FEEhSG0Hqu7Oro=</c2pa:manifest></metadata>
+  <title id="t">A tiny developer runs across the page, jumps over a bug, digs up a code treasure and waves</title>
+  <style>
+    /* ---------- palette (light) ---------- */
+    .bg     { fill: #f6f8fa; stroke: #d0d7de; }
+    .ground { stroke: #8c959f; }
+    .pebble { fill: #afb8c1; }
+    .cloud  { fill: #e6ebf0; }
+    .skin   { fill: #f2c19e; }
+    .shirt  { fill: #2da44e; }
+    .sleeve { fill: #1f883d; }
+    .pants  { fill: #424a53; }
+    .shoe   { fill: #24292f; }
+    .cap    { fill: #0969da; }
+    .mug    { fill: #ffffff; stroke: #57606a; }
+    .brew   { fill: #6f4e37; }
+    .steamln { stroke: #8c959f; }
+    .pack   { fill: #bf8700; }
+    .eye    { fill: #24292f; }
+    .shaft  { fill: #8a5a2b; }
+    .blade  { fill: #8c959f; }
+    .bug    { fill: #cf222e; }
+    .bughd  { fill: #24292f; }
+    .bugln  { stroke: #24292f; }
+    .xmark  { stroke: #cf222e; }
+    .hole   { fill: #57606a; }
+    .dirtc  { fill: #9a6b3c; }
+    .chest  { fill: #9a6b3c; }
+    .band   { fill: #d4a72c; }
+    .code   { fill: #8250df; }
+    .glow   { fill: #8250df; }
+    .spark  { fill: #d4a72c; }
+    .bubble-bg { fill: #ffffff; stroke: #d0d7de; }
+    .bubble-tx { fill: #24292f; }
+
+    /* ---------- palette (dark) ---------- */
+    @media (prefers-color-scheme: dark) {
+      .bg     { fill: #161b22; stroke: #30363d; }
+      .ground { stroke: #6e7681; }
+      .pebble { fill: #484f58; }
+      .cloud  { fill: #21262d; }
+      .pants  { fill: #6e7681; }
+      .shoe   { fill: #c9d1d9; }
+      .mug    { fill: #e6edf3; stroke: #8b949e; }
+      .steamln { stroke: #6e7681; }
+      .eye    { fill: #0d1117; }
+      .bughd  { fill: #c9d1d9; }
+      .bugln  { stroke: #c9d1d9; }
+      .bug    { fill: #f85149; }
+      .xmark  { stroke: #f85149; }
+      .hole   { fill: #0d1117; }
+      .code   { fill: #d2a8ff; }
+      .glow   { fill: #a371f7; }
+      .bubble-bg { fill: #0d1117; stroke: #30363d; }
+      .bubble-tx { fill: #e6edf3; }
+    }
+
+    /* ---------- static defaults (also the reduced-motion pose) ---------- */
+    .mover     { transform: translateX(60px); }
+    .runLegs, .runArm, .digArm, .waveArm,
+    .dirt, .hole, .pile, .bubble, .code-wrap,
+    .coffeeArm, .cup, .sayCoffee, .saySquash { opacity: 0; }
+    .chestRise { transform: translateY(26px); }
+
+    /* ---------- 14 s master timeline ----------
+       0–17.6% sip coffee ("mmm, coffee"), then 17.6–100% is the old 14 s sequence stretched into place
+       run right, land on the bug at ~13% and squash it flat
+       28–47%  dig
+       46–55%  chest rises, opens, code floats up
+       52–64%  wave + say hi
+       64–92%  run back left over the flattened bug
+       92–100% back at start: bug pops back up, catch breath, turn around */
+    .mover     { animation: move  17s linear infinite; }
+    .jumper    { animation: jump  17s infinite; }
+    .facing    { animation: face  17s linear infinite; }
+    .runLegs, .runArm { animation: runphase 17s linear infinite; }
+    .standLegs { animation: standing 17s linear infinite; }
+    .idleArm   { animation: idling 17s linear infinite; }
+    .digArm    { animation: digging 17s linear infinite; }
+    .waveArm   { animation: waving 17s linear infinite; }
+    .dirt      { animation: digging 17s linear infinite; }
+    .xmark     { animation: xfade 17s linear infinite; }
+    .hole      { animation: holefade 17s linear infinite; }
+    .pile      { animation: pilefade 17s linear infinite; }
+    .chestRise { animation: rise 17s ease-in-out infinite; }
+    .lid       { animation: lid 17s ease-in-out infinite; }
+    .code-wrap { animation: codeup 17s ease-out infinite; }
+    .bubble    { animation: bubble 17s linear infinite; }
+    .coffeeArm, .cup { animation: coffee 17s linear infinite; }
+    .sayCoffee { animation: sayCoffee 17s linear infinite; }
+    .saySquash { animation: saySquash 17s linear infinite; }
+
+    /* loops inside the timeline */
+    .sip    { animation: sipArm 1.5s ease-in-out infinite; }
+    .sipCup { animation: sipCup 1.5s ease-in-out infinite; }
+    .steam  { animation: steam 1s ease-in-out infinite; }
+    .frameA { animation: legA .36s linear infinite; }
+    .frameB { animation: legB .36s linear infinite; }
+    .swing  { animation: swing .36s ease-in-out infinite; }
+    .dig    { animation: dig .6s ease-in-out infinite; }
+    .wave   { animation: wave .5s ease-in-out infinite; }
+    .p1 { animation: fling1 .6s ease-out infinite; }
+    .p2 { animation: fling2 .6s ease-out infinite .15s; }
+    .p3 { animation: fling3 .6s ease-out infinite .3s; }
+    .glow  { animation: pulse 1.4s ease-in-out infinite; }
+    .s1 { animation: twinkle 1s linear infinite; }
+    .s2 { animation: twinkle 1s linear infinite .33s; }
+    .s3 { animation: twinkle 1s linear infinite .66s; }
+    .bugwiggle { animation: scuttle .5s ease-in-out infinite; }
+    .bugsquash { animation: squash 17s linear infinite; }
+    .cloudA { animation: drift 48s linear infinite; }
+    .cloudB { animation: drift 70s linear infinite -30s; }
+
+    @keyframes move {
+      0%, 17.65% { transform: translateX(60px); }
+      40.71% { transform: translateX(560px); }
+      70.35% { transform: translateX(560px); }
+      93.41% { transform: translateX(60px); }
+      100% { transform: translateX(60px); }
+    }
+    @keyframes jump {
+      0%, 17.65%, 25.39% { transform: translateY(0); }
+      25.88% { transform: translateY(-16px); }
+      26.38% { transform: translateY(-26px); }
+      26.87% { transform: translateY(-30px); }
+      27.36% { transform: translateY(-28px); }
+      27.94% { transform: translateY(-20px); }
+      28.52%, 28.85% { transform: translateY(-10px); }   /* land on the bug */
+      29.51% { transform: translateY(0); }              /* bug squashed flat */
+      30.33% { transform: translateY(-5px); }           /* little bounce */
+      30.99%, 100% { transform: translateY(0); }
+    }
+    @keyframes squash {
+      0%, 17.65%, 28.52% { transform: scale(1, 1); }
+      28.85% { transform: scale(1.3, 0.55); }
+      29.51%, 93.33% { transform: scale(1.45, 0.08); }
+      94.07% { transform: scale(0.85, 1.3); }
+      95.47%, 100% { transform: scale(1, 1); }
+    }
+    @keyframes face {
+      0%, 17.65%, 70.27% { transform: scale(1, 1); }
+      70.35%, 99.92% { transform: scale(-1, 1); }
+      100% { transform: scale(1, 1); }
+    }
+    @keyframes runphase {
+      0%, 17.64% { opacity: 0; }
+      17.65%, 40.62% { opacity: 1; }
+      40.71%, 70.27% { opacity: 0; }
+      70.35%, 93.33% { opacity: 1; }
+      93.41%, 100% { opacity: 0; }
+    }
+    @keyframes standing {
+      0%, 17.64% { opacity: 1; }
+      17.65%, 40.62% { opacity: 0; }
+      40.71%, 70.27% { opacity: 1; }
+      70.35%, 93.33% { opacity: 0; }
+      93.41%, 100% { opacity: 1; }
+    }
+    @keyframes idling {
+      0%, 17.65%, 56.27% { opacity: 0; }
+      56.35%, 60.39% { opacity: 1; }
+      60.47%, 93.33% { opacity: 0; }
+      93.41%, 100% { opacity: 1; }
+    }
+    @keyframes digging {
+      0%, 17.65%, 40.62% { opacity: 0; }
+      40.71%, 56.27% { opacity: 1; }
+      56.35%, 100% { opacity: 0; }
+    }
+    @keyframes waving {
+      0%, 17.65%, 60.39% { opacity: 0; }
+      60.47%, 70.27% { opacity: 1; }
+      70.35%, 100% { opacity: 0; }
+    }
+    @keyframes xfade    { 0%, 17.65%, 41.53% { opacity: 1; } 44%, 96.71% { opacity: 0; } 100% { opacity: 1; } }
+    @keyframes holefade { 0%, 17.65%, 41.53% { opacity: 0; } 44%, 90.12% { opacity: 1; } 95.06%, 100% { opacity: 0; } }
+    @keyframes pilefade { 0%, 17.65%, 42.35% { opacity: 0; } 54.71%, 90.12% { opacity: 1; } 95.06%, 100% { opacity: 0; } }
+    @keyframes rise {
+      0%, 17.65%, 55.53% { transform: translateY(26px); }
+      58.82%, 86.82% { transform: translateY(0); }
+      91.76%, 100% { transform: translateY(26px); }
+    }
+    @keyframes lid {
+      0%, 17.65%, 58.82% { transform: rotate(0deg); }
+      61.29%, 86% { transform: rotate(-110deg); }
+      88.47%, 100% { transform: rotate(0deg); }
+    }
+    @keyframes codeup {
+      0%, 17.65%, 59.65% { opacity: 0; transform: translateY(10px); }
+      62.94% { opacity: 1; transform: translateY(-16px); }
+      65.41%, 86% { opacity: 1; transform: translateY(-13px); }
+      89.29%, 100% { opacity: 0; transform: translateY(-13px); }
+    }
+    @keyframes bubble {
+      0%, 17.65%, 61.29% { opacity: 0; }
+      62.12%, 69.94% { opacity: 1; }
+      70.76%, 100% { opacity: 0; }
+    }
+    @keyframes coffee {
+      0%, 17.64% { opacity: 1; }
+      17.65%, 100% { opacity: 0; }
+    }
+    @keyframes sayCoffee {
+      0%, 4% { opacity: 0; }
+      4.5%, 15.5% { opacity: 1; }
+      16%, 100% { opacity: 0; }
+    }
+    @keyframes saySquash {
+      0%, 28.3% { opacity: 0; }
+      28.6%, 35.5% { opacity: 1; }
+      36%, 100% { opacity: 0; }
+    }
+    @keyframes sipArm  { 0%, 25%, 100% { transform: rotate(-90deg); } 40%, 70% { transform: rotate(-130deg); } }
+    @keyframes sipCup  { 0%, 25%, 100% { transform: translate(0, 0) rotate(0deg); } 40%, 70% { transform: translate(-1.9px, -5.1px) rotate(-25deg); } }
+    @keyframes steam   { 0%, 100% { opacity: .2; transform: translateY(0); } 50% { opacity: .8; transform: translateY(-2px); } }
+    @keyframes legA { 0%, 49.9% { opacity: 1; } 50%, 100% { opacity: 0; } }
+    @keyframes legB { 0%, 49.9% { opacity: 0; } 50%, 100% { opacity: 1; } }
+    @keyframes swing { 0%, 100% { transform: rotate(-35deg); } 50% { transform: rotate(35deg); } }
+    @keyframes dig   { 0%, 100% { transform: rotate(-30deg); } 50% { transform: rotate(-115deg); } }
+    @keyframes wave  { 0%, 100% { transform: rotate(205deg); } 50% { transform: rotate(250deg); } }
+    @keyframes fling1 { 0% { transform: translate(0,0); opacity: 1; } 60% { transform: translate(10px,-18px); } 100% { transform: translate(18px,-4px); opacity: 0; } }
+    @keyframes fling2 { 0% { transform: translate(0,0); opacity: 1; } 60% { transform: translate(16px,-24px); } 100% { transform: translate(26px,-6px); opacity: 0; } }
+    @keyframes fling3 { 0% { transform: translate(0,0); opacity: 1; } 60% { transform: translate(6px,-14px); } 100% { transform: translate(12px,-2px); opacity: 0; } }
+    @keyframes pulse   { 0%, 100% { opacity: .12; } 50% { opacity: .3; } }
+    @keyframes twinkle { 0%, 100% { opacity: 0; } 50% { opacity: 1; } }
+    @keyframes scuttle { 0%, 100% { transform: translateX(-1px); } 50% { transform: translateX(1px); } }
+    @keyframes drift   { from { transform: translateX(-80px); } to { transform: translateX(880px); } }
+
+  </style>
+
+  <defs>
+    <clipPath id="aboveGround"><rect x="0" y="0" width="800" height="110"/></clipPath>
+  </defs>
+
+  <!-- panel -->
+  <rect class="bg" x="0.5" y="0.5" width="799" height="139" rx="10" stroke-width="1"/>
+
+  <!-- clouds -->
+  <g class="cloudA"><g transform="translate(0 32)">
+    <circle class="cloud" cx="0" cy="0" r="9"/><circle class="cloud" cx="11" cy="-4" r="11"/><circle class="cloud" cx="23" cy="0" r="8"/>
+  </g></g>
+  <g class="cloudB"><g transform="translate(0 52)">
+    <circle class="cloud" cx="0" cy="0" r="6"/><circle class="cloud" cx="8" cy="-3" r="8"/><circle class="cloud" cx="17" cy="0" r="6"/>
+  </g></g>
+
+  <!-- ground -->
+  <line class="ground" x1="24" y1="110" x2="776" y2="110" stroke-width="2" stroke-linecap="round"/>
+  <rect class="pebble" x="120" y="114" width="4" height="2" rx="1"/>
+  <rect class="pebble" x="232" y="116" width="3" height="2" rx="1"/>
+  <rect class="pebble" x="418" y="114" width="5" height="2" rx="1"/>
+  <rect class="pebble" x="496" y="117" width="3" height="2" rx="1"/>
+  <rect class="pebble" x="668" y="115" width="4" height="2" rx="1"/>
+
+  <!-- the bug obstacle -->
+  <g transform="translate(300 110)">
+    <g class="bugsquash">
+      <g class="bugwiggle">
+        <line class="bugln" x1="-5" y1="-2" x2="-7" y2="0" stroke-width="1.2"/>
+        <line class="bugln" x1="0" y1="-2" x2="0" y2="0" stroke-width="1.2"/>
+        <line class="bugln" x1="5" y1="-2" x2="7" y2="0" stroke-width="1.2"/>
+        <ellipse class="bug" cx="0" cy="-6" rx="8" ry="5"/>
+        <line class="bugln" x1="0" y1="-11" x2="0" y2="-1" stroke-width="0.8"/>
+        <circle class="bughd" cx="8.5" cy="-6" r="3.2"/>
+        <path class="bugln" d="M10 -8.5 L13 -12 M9 -9 L10.5 -13" stroke-width="0.9" fill="none" stroke-linecap="round"/>
+      </g>
+    </g>
+  </g>
+
+  <!-- treasure spot -->
+  <g transform="translate(582 110)">
+    <g class="xmark" stroke-width="2" stroke-linecap="round">
+      <line x1="-5" y1="-1" x2="5" y2="3"/><line x1="5" y1="-1" x2="-5" y2="3"/>
+    </g>
+    <ellipse class="hole" cx="0" cy="1" rx="13" ry="3"/>
+    <path class="pile dirtc" d="M14 0 Q22 -9 30 0 Z"/>
+  </g>
+
+  <!-- chest (clipped so it rises out of the ground) -->
+  <g clip-path="url(#aboveGround)">
+    <g transform="translate(582 110)">
+      <g class="chestRise">
+        <rect class="chest" x="-11" y="-13" width="22" height="13" rx="1.5"/>
+        <rect class="band"  x="-11" y="-9"  width="22" height="2"/>
+        <rect class="band"  x="-2"  y="-11" width="4"  height="5" rx="1"/>
+        <g transform="translate(-11 -13)">
+          <g class="lid">
+            <rect class="chest" x="0" y="-6" width="22" height="6" rx="2"/>
+            <rect class="band"  x="0" y="-2" width="22" height="1.5"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+
+  <!-- the code treasure -->
+  <g transform="translate(582 92)">
+    <g class="code-wrap">
+      <circle class="glow" cx="0" cy="-5" r="17"/>
+      <text class="code" x="0" y="0" text-anchor="middle"
+            font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace"
+            font-size="17" font-weight="700">&lt;/&gt;</text>
+      <path class="spark s1" d="M-20 -14 l1.5 -4 l1.5 4 l4 1.5 l-4 1.5 l-1.5 4 l-1.5 -4 l-4 -1.5 z"/>
+      <path class="spark s2" d="M18 -20 l1 -3 l1 3 l3 1 l-3 1 l-1 3 l-1 -3 l-3 -1 z"/>
+      <path class="spark s3" d="M20 2 l1 -2.5 l1 2.5 l2.5 1 l-2.5 1 l-1 2.5 l-1 -2.5 l-2.5 -1 z"/>
+    </g>
+  </g>
+
+  <!-- dirt flying while digging -->
+  <g class="dirt" transform="translate(580 107)">
+    <rect class="dirtc p1" x="0" y="0" width="3" height="3"/>
+    <rect class="dirtc p2" x="2" y="1" width="2" height="2"/>
+    <rect class="dirtc p3" x="-1" y="1" width="2.5" height="2.5"/>
+  </g>
+
+  <!-- speech bubble -->
+  <g class="bubble" transform="translate(520 52)">
+    <path class="bubble-bg" stroke-width="1" stroke-linejoin="round" d="M-20 -11 H20 A6 6 0 0 1 26 -5 V3 A6 6 0 0 1 20 9 H18 L22 18 L12 9 H-20 A6 6 0 0 1 -26 3 V-5 A6 6 0 0 1 -20 -11 Z"/>
+    <text class="bubble-tx" x="0" y="3.5" text-anchor="middle"
+          font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif"
+          font-size="11" font-weight="600">hi there!</text>
+  </g>
+
+  <!-- speech bubbles -->
+  <g class="sayCoffee" transform="translate(80 50)">
+    <path class="bubble-bg" stroke-width="1" stroke-linejoin="round" d="M-34 -11 H34 A6 6 0 0 1 40 -5 V3 A6 6 0 0 1 34 9 H-12 L-22 18 L-18 9 H-34 A6 6 0 0 1 -40 3 V-5 A6 6 0 0 1 -34 -11 Z"/>
+    <text class="bubble-tx" x="0" y="3.5" text-anchor="middle"
+          font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif"
+          font-size="11" font-weight="600">mmm, coffee</text>
+  </g>
+  <g class="saySquash" transform="translate(330 44)">
+    <path class="bubble-bg" stroke-width="1" stroke-linejoin="round" d="M-59 -11 H59 A6 6 0 0 1 65 -5 V3 A6 6 0 0 1 59 9 H-28 L-40 21 L-44 9 H-59 A6 6 0 0 1 -65 3 V-5 A6 6 0 0 1 -59 -11 Z"/>
+    <text class="bubble-tx" x="0" y="3.5" text-anchor="middle"
+          font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif"
+          font-size="11" font-weight="600">squashing some bugs</text>
+  </g>
+
+  <!-- the runner -->
+  <g transform="translate(0 110)">
+    <g class="mover">
+      <g class="jumper">
+        <g class="facing">
+          <!-- legs: standing -->
+          <g class="standLegs">
+            <rect class="pants" x="-4" y="-9" width="3" height="9"/>
+            <rect class="pants" x="1"  y="-9" width="3" height="9"/>
+            <rect class="shoe"  x="-4.5" y="-2" width="4" height="2"/>
+            <rect class="shoe"  x="0.5"  y="-2" width="4.5" height="2"/>
+          </g>
+          <!-- legs: running (two alternating frames) -->
+          <g class="runLegs">
+            <g class="frameA">
+              <g transform="rotate(-35 0 -9)"><rect class="pants" x="-1.5" y="-9" width="3" height="9"/><rect class="shoe" x="-1.5" y="-2" width="4.5" height="2"/></g>
+              <g transform="rotate(35 0 -9)"><rect class="pants" x="-1.5" y="-9" width="3" height="9"/><rect class="shoe" x="-1.5" y="-2" width="4.5" height="2"/></g>
+            </g>
+            <g class="frameB">
+              <g transform="rotate(-8 0 -9)"><rect class="pants" x="-1.5" y="-9" width="3" height="9"/><rect class="shoe" x="-1.5" y="-2" width="4.5" height="2"/></g>
+              <g transform="rotate(12 0 -9)"><rect class="pants" x="-1.5" y="-9" width="3" height="9"/><rect class="shoe" x="-1.5" y="-2" width="4.5" height="2"/></g>
+            </g>
+          </g>
+          <!-- backpack, body, head -->
+          <rect class="pack"  x="-8" y="-19" width="4" height="8" rx="1"/>
+          <rect class="shirt" x="-5" y="-20" width="10" height="11" rx="1.5"/>
+          <rect class="skin"  x="-5" y="-30" width="10" height="10" rx="2"/>
+          <rect class="eye"   x="2"  y="-27" width="2" height="2"/>
+          <rect class="cap"   x="-6" y="-32" width="11" height="4.5" rx="1.5"/>
+          <rect class="cap"   x="3"  y="-29.5" width="5.5" height="1.5" rx="0.5"/>
+          <!-- arms, pivoting at the shoulder -->
+          <g transform="translate(0 -18)">
+            <g class="runArm"><g class="swing">
+              <rect class="sleeve" x="-1.5" y="0" width="3" height="5"/><rect class="skin" x="-1.5" y="5" width="3" height="3"/>
+            </g></g>
+            <g class="coffeeArm"><g class="sip">
+              <rect class="sleeve" x="-1.5" y="0" width="3" height="5"/><rect class="skin" x="-1.5" y="5" width="3" height="3"/>
+            </g></g>
+            <g class="cup" transform="translate(9.5 0)"><g class="sipCup">
+              <path class="steamln steam" d="M-1 -4 q-1.5 -2 0 -4 M1.5 -4 q-1.5 -2 0 -4" fill="none" stroke-width="0.8" stroke-linecap="round"/>
+              <rect class="mug" x="-2.5" y="-3" width="5" height="6" rx="0.8" stroke-width="0.8"/>
+              <rect class="brew" x="-1.8" y="-2.4" width="3.6" height="1.2"/>
+              <path class="mug" style="fill:none" d="M2.5 -1.5 q2.5 0 2.5 2 q0 1.5 -2.5 1.5" stroke-width="0.9"/>
+            </g></g>
+            <g class="idleArm">
+              <rect class="sleeve" x="-1.5" y="0" width="3" height="5"/><rect class="skin" x="-1.5" y="5" width="3" height="3"/>
+            </g>
+            <g class="digArm"><g class="dig">
+              <rect class="shaft"  x="-0.75" y="5" width="1.5" height="12"/>
+              <rect class="blade"  x="-2.5" y="16" width="5" height="4" rx="1"/>
+              <rect class="sleeve" x="-1.5" y="0" width="3" height="5"/><rect class="skin" x="-1.5" y="5" width="3" height="3"/>
+            </g></g>
+            <g class="waveArm" transform="translate(3 0)"><g class="wave">
+              <rect class="sleeve" x="-1.5" y="0" width="3" height="7"/><rect class="skin" x="-2" y="7" width="4" height="4" rx="1"/>
+            </g></g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

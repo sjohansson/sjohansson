@@ -1,10 +1,16 @@
-### Hi, I'm Stefan 👋
+### Hi, I'm Stefan 🖖
 
 Data platform engineer and consultant based in Sydney, Australia 🇦🇺 (by way of Sweden 🇸🇪).
 
 I help organisations design, build and run modern data platforms across the **Microsoft** and **Snowflake** ecosystems, from architecture and governance through to the automation that keeps things running.
 
 ### 🔧 What I work on
+
+An ordinary day: drinking some coffee, squashing some bugs, unearthing some awesome code treasures:
+
+<p align="center">
+  <img src="./runner.svg" width="100%" alt="A tiny developer runs, jumps on a bug and digs up a code treasure">
+</p>
 
 - ✨ **AI Automation** for workflows and data platforms
 - **Microsoft / Azure**: Fabric and cloud-based data platforming
